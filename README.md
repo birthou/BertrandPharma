@@ -26,9 +26,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video bertrand_pharma_App' width='' alt='Video bertrand_pharma_App' />
+<img src='bertrandpharma.gif' title='Video bertrand_pharma_App' width='' alt='Video bertrand_pharma_App' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [du recorder](http://www.google.com/durecorder/).
 
 ## Notes
 
